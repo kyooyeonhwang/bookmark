@@ -22,6 +22,7 @@
 
   * https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/
   * http://ssvvgg.net/
+  * https://css-tricks.com/svg-fallbacks/ [svg fallbacks 방법]
 
 
 ### Book
