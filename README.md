@@ -16,15 +16,21 @@
     * http://slides.com/sdrasner/fluent-keynote#/ [Complex Responsive SVG Animations]
     * http://slides.com/sdrasner/generateny#/ [Functional Animation]
     * http://slides.com/sdrasner/fluent-session#/ [Complex SVG Animations with GreenSock (GSAP)]
-  * http://www.slideshare.net/SaraSoueidan/svg-for-web-designers-and-developers / https://www.youtube.com/watch?v=WKr4ryx2-U4
+  * http://www.slideshare.net/SaraSoueidan/svg-for-web-designers-and-developers  / https://www.youtube.com/watch?v=WKr4ryx2-U4
 
 ### URL
 
   * https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/
   * http://ssvvgg.net/
   * https://css-tricks.com/svg-fallbacks/ [svg fallbacks 방법]
+ 
+### SVG 
 
-
+  * GreenSock Animation Platform (GSAP) [http://greensock.com/] 
+  * Snap.svg (The jQuery of SVG) [http://snapsvg.io/] 
+  * Velocity.js [http://julian.com/research/velocity/]
+  * D3.js [https://d3js.org/]
+  
 ### Book
   
-  * http://svgpocketguide.com/
+  * http://svgpocketguide.com/ (Free)
