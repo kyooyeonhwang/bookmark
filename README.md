@@ -17,14 +17,22 @@
     * http://slides.com/sdrasner/generateny#/ [Functional Animation]
     * http://slides.com/sdrasner/fluent-session#/ [Complex SVG Animations with GreenSock (GSAP)]
   * http://www.slideshare.net/SaraSoueidan/svg-for-web-designers-and-developers  / https://www.youtube.com/watch?v=WKr4ryx2-U4
+  * http://cloudfour.github.io/slides-svg-101/#/ [SVG 101 A Gentle Introduction]
+  * http://talks.brennaobrien.com/svg-typography/#/ [Creative Typography with SVG]
+
+### Following
+
+  * https://sarasoueidan.com/
+  * http://sarahdrasnerdesign.com/
+  * http://tavmjong.free.fr/blog/
 
 ### URL
 
   * https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/
-  * http://ssvvgg.net/
+  * http://ssvvgg.net/ [SVG의 최신 뉴스 및 제작 요령 등의 정보]
   * https://css-tricks.com/svg-fallbacks/ [svg fallbacks 방법]
  
-### SVG 
+### SVG JavaScript animation libraries 
 
   * GreenSock Animation Platform (GSAP) [http://greensock.com/] 
   * Snap.svg (The jQuery of SVG) [http://snapsvg.io/] 
