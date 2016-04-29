@@ -43,6 +43,9 @@
 ### SVG JavaScript animation libraries 
 
   * http://greensock.com/ [GreenSock Animation Platform (GSAP) - 일부 플러그인은 유료]
+    * https://cdnjs.com/libraries/gsap [greensock 라이브러리 CDN]
+    * http://greensock.com/ease-visualizer [GreenSock Ease Visualizer]
+    * http://hwaba.nflint.com/lab/tween/ [간단한 한글 설명]
   * http://snapsvg.io/ Snap.svg [The jQuery of SVG]
   * http://julian.com/research/velocity/ [Velocity.js]
   * https://d3js.org/ [D3.js]
