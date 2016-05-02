@@ -20,6 +20,7 @@
     * http://slides.com/sdrasner/generateny#/ [Functional Animation]
   * http://cloudfour.github.io/slides-svg-101/#/ [SVG 101 A Gentle Introduction]
   * http://talks.brennaobrien.com/svg-typography/#/ [Creative Typography with SVG]
+  * http://slides.com/chriscoyier/gettin-weird-with-shape-morphing#/ [Five minutes on Shape Morphing]
 
 ### Following
 
