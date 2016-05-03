@@ -11,7 +11,10 @@
     * http://slides.com/sarasoueidan/tips-for-avoiding-common-svg-pitfalls#/
     * http://slides.com/sarasoueidan/styling-animating-svgs-with-css#/
     * http://slides.com/sarasoueidan/on-the-edge-of-svg#/
+    * http://slides.com/sarasoueidan/animating-svg-with-css-and-smil__fonteers#/
+    * http://slides.com/sarasoueidan/animating-svg-with-css-and-smil-full-version#/
     * http://www.slideshare.net/SaraSoueidan/svg-for-web-designers-and-developers  / https://www.youtube.com/watch?v=WKr4ryx2-U4
+    * https://sarasoueidan.com/slides/SVG-In-Motion.pdf
   * sdrasner
     * http://slides.com/sdrasner/cssdevconf#/ [Designing Complex SVG Animations]
     * http://slides.com/sdrasner/fluent-keynote#/ [Complex Responsive SVG Animations]
@@ -21,6 +24,10 @@
   * http://cloudfour.github.io/slides-svg-101/#/ [SVG 101 A Gentle Introduction]
   * http://talks.brennaobrien.com/svg-typography/#/ [Creative Typography with SVG]
   * http://slides.com/chriscoyier/gettin-weird-with-shape-morphing#/ [Five minutes on Shape Morphing]
+  * chriscoyier
+    * https://speakerdeck.com/chriscoyier/the-wonderful-world-of-svg
+  * http://talks.brennaobrien.com/svg/#/ [SVG CAN DO THAT?!?]
+  * http://www.slideshare.net/Maujor/svg-de-volta-e-paara-o-futuro
 
 ### Following
 
@@ -59,3 +66,12 @@
 ### Book
   
   * http://svgpocketguide.com/ (Free)
+
+  
+## Layout
+
+### Slide
+
+  * http://www.slideshare.net/rachelandrew/css-day-css-grid-layout
+  * http://people.igalia.com/mrego/talks/cssconf-us-2015-css-grid-layout/#/
+  * https://speakerdeck.com/rachelandrew/css-grid-layout-for-paris-web
