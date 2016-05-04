@@ -40,6 +40,8 @@
   * https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/
   * http://ssvvgg.net/ [SVG의 최신 뉴스 및 제작 요령 등의 정보]
   * https://css-tricks.com/svg-fallbacks/ [svg fallbacks 방법]
+  * https://css-tricks.com/svg-animation-on-css-transforms/ [SVG 애니메이션 및 CSS transform]
+    * CSS로 조작하는 동안 꽤 만만치 않은 문제는 만날 수 있으며, 그 문제를 해결할 수있는 방법에 대해 설명합니다.
   * https://medium.com/@iamryanyu/svg-sprite-workflow-that-works-f5609d4d6144#.dxcxy2i8s [SVG Sprite Workflow That Works]
   * https://svgweekly.com/ {뉴스레터]
   * http://mytory.net/archives/11169 [SVG 활용 1 – 아이콘 폰트가 아니라 SVG를 사용한 이유]
@@ -47,6 +49,7 @@
   * http://mytory.net/archives/11213 [SVG 활용 3 – 웹 문서에 SVG를 넣는 다양한 방법, 온갖 예외 피하기]
   * http://mytory.net/archives/11338 [SVG 활용 4 – 미지원 브라우저 대응]
   * http://mytory.net/archives/11444 [SVG 활용 5 – SVG에 애니메이션 효과 주기]
+  * https://css-tricks.com/comparison-animation-technologies/ [웹 에니메이션 기술 장단점 비교]
  
 ### SVG JavaScript animation libraries 
 
@@ -62,6 +65,12 @@
 
   * http://thenewcode.com/1072/Radial-UI-Controls-with-HTML5-CSS-JS-and-SVG-Part-1 [Pie 차트]
   * http://codepen.io/suez/pen/emjwvP [메뉴 탄성 효과]
+  * http://codepen.io/chrisgannon/
+  * http://tympanus.net/Development/Animocons/ [웹폰트/SVG 아이콘으로 만든 애니콘]
+  * http://tympanus.net/Tutorials/SVGDrums/
+  * http://tympanus.net/Tutorials/SVGRipples/ [Google Material Design Ripple Effect with SVG]
+  * http://tympanus.net/Development/ElasticSVGElements/
+  * http://tympanus.net/Tutorials/ShapeHoverEffectSVG/
 
   
 ### Book
