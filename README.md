@@ -15,6 +15,7 @@
     * http://slides.com/sarasoueidan/animating-svg-with-css-and-smil-full-version#/
     * http://www.slideshare.net/SaraSoueidan/svg-for-web-designers-and-developers  / https://www.youtube.com/watch?v=WKr4ryx2-U4
     * https://sarasoueidan.com/slides/SVG-In-Motion.pdf
+    * https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/pub?start=false&loop=false&delayms=3000#slide=id.p
   * sdrasner
     * http://slides.com/sdrasner/cssdevconf#/ [Designing Complex SVG Animations]
     * http://slides.com/sdrasner/fluent-keynote#/ [Complex Responsive SVG Animations]
@@ -28,6 +29,7 @@
     * https://speakerdeck.com/chriscoyier/the-wonderful-world-of-svg
   * http://talks.brennaobrien.com/svg/#/ [SVG CAN DO THAT?!?]
   * http://www.slideshare.net/Maujor/svg-de-volta-e-paara-o-futuro
+  * http://ptamarit.com/slides-data-viz-web-d3/en/#/
 
 ### Following
 
