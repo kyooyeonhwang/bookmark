@@ -30,6 +30,7 @@
   * http://talks.brennaobrien.com/svg/#/ [SVG CAN DO THAT?!?]
   * http://www.slideshare.net/Maujor/svg-de-volta-e-paara-o-futuro
   * http://ptamarit.com/slides-data-viz-web-d3/en/#/
+  * https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/pub?start=true&loop=false&delayms=5000#slide=id.p [Leaving Pixels Behind: A Vector Workflow for Designers]
 
 ### Following
 
@@ -52,6 +53,7 @@
   * http://mytory.net/archives/11338 [SVG 활용 4 – 미지원 브라우저 대응]
   * http://mytory.net/archives/11444 [SVG 활용 5 – SVG에 애니메이션 효과 주기]
   * https://css-tricks.com/comparison-animation-technologies/ [웹 에니메이션 기술 장단점 비교]
+  * https://github.com/iconic/SVGInjector [img태그 형색으로 되어 있는것을 DOM형식으로 SVG 마크업 인라인으로 대체 라이브러리]
  
 ### SVG JavaScript animation libraries 
 
