@@ -90,3 +90,4 @@
   * http://www.slideshare.net/rachelandrew/css-day-css-grid-layout
   * http://people.igalia.com/mrego/talks/cssconf-us-2015-css-grid-layout/#/
   * https://speakerdeck.com/rachelandrew/css-grid-layout-for-paris-web
+  * https://forwardcourses.com/lectures/87 [Flexbox: WTF - Forward 4 Web Summit]
