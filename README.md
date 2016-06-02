@@ -14,7 +14,8 @@
     * http://slides.com/sarasoueidan/animating-svg-with-css-and-smil__fonteers#/
     * http://slides.com/sarasoueidan/animating-svg-with-css-and-smil-full-version#/
     * http://www.slideshare.net/SaraSoueidan/svg-for-web-designers-and-developers  / https://www.youtube.com/watch?v=WKr4ryx2-U4
-    * https://sarasoueidan.com/slides/SVG-In-Motion.pdf
+    * https://sarasoueidan.com/slides/SVG-In-Motion.pdf 
+      * https://vimeo.com/album/3953264/video/166790778
     * https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/pub?start=false&loop=false&delayms=3000#slide=id.p
   * sdrasner
     * http://slides.com/sdrasner/cssdevconf#/ [Designing Complex SVG Animations]
