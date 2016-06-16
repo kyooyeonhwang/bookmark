@@ -93,3 +93,9 @@
   * http://people.igalia.com/mrego/talks/cssconf-us-2015-css-grid-layout/#/
   * https://speakerdeck.com/rachelandrew/css-grid-layout-for-paris-web
   * https://forwardcourses.com/lectures/87 [Flexbox: WTF - Forward 4 Web Summit]
+
+## WebFont
+
+  * http://mytory.net/2016/06/15/webfont-best-practice.html [웹 폰트를 로컬 스토리지에 저장하는 기법 - 캐시 안정성 증가, 글꼴 깜빡임 현상 제거]
+  * http://blog.coderifleman.com/post/111825720099/한글-웹-폰트-경량화해-사용하기 [한글 웹 폰트 경량화해 사용하기]
+  * http://www.beautifulcss.com/archives/431 [웹 폰트 파헤치기 - 웹폰트의 모든것]
