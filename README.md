@@ -99,3 +99,5 @@
   * http://mytory.net/2016/06/15/webfont-best-practice.html [웹 폰트를 로컬 스토리지에 저장하는 기법 - 캐시 안정성 증가, 글꼴 깜빡임 현상 제거]
   * http://blog.coderifleman.com/post/111825720099/한글-웹-폰트-경량화해-사용하기 [한글 웹 폰트 경량화해 사용하기]
   * http://www.beautifulcss.com/archives/431 [웹 폰트 파헤치기 - 웹폰트의 모든것]
+  * https://spoqa.github.io/2016/06/03/localize-type-setting.html [다국어 환경에 맞게 타이포그래피 세팅하기 - 다국어 반응형 타이포그래피]
+  * http://naradesign.net/wp/2012/06/19/1830/ [웹 폰트 문제 해결. @font-face troubleshooting]
