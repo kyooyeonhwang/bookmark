@@ -34,6 +34,7 @@
   * http://ptamarit.com/slides-data-viz-web-d3/en/#/
   * https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/pub?start=true&loop=false&delayms=5000#slide=id.p [Leaving Pixels Behind: A Vector Workflow for Designers]
    *  일러스트 필터효과가 같이 SVG 파일로 적용안되는 부분이 있는데 몇가지 예제를 보여주고 해결방법을 제시. (P.64)
+  * https://ameliabr.github.io/css-svg-dynamic-duo/ 
 
 ### Following
 
@@ -93,6 +94,7 @@
   * http://people.igalia.com/mrego/talks/cssconf-us-2015-css-grid-layout/#/
   * https://speakerdeck.com/rachelandrew/css-grid-layout-for-paris-web
   * https://forwardcourses.com/lectures/87 [Flexbox: WTF - Forward 4 Web Summit]
+  * https://speakerdeck.com/jensimmons/modern-layouts-getting-out-of-our-ruts-1, https://www.youtube.com/watch?v=ZNpn7FBp_9U
 
 ## WebFont
 
