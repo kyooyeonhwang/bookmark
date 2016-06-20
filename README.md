@@ -58,6 +58,7 @@
   * http://mytory.net/archives/11444 [SVG 활용 5 – SVG에 애니메이션 효과 주기]
   * https://css-tricks.com/comparison-animation-technologies/ [웹 에니메이션 기술 장단점 비교]
   * https://github.com/iconic/SVGInjector [img태그 형색으로 되어 있는것을 DOM형식으로 SVG 마크업 인라인으로 대체 라이브러리]
+  * http://www.catswhocode.com/blog/tutorials-and-resources-to-learn-and-master-svg [튜토리얼와 리소스를 통해서 SVG 마스터]
  
 ### SVG JavaScript animation libraries 
 
@@ -103,3 +104,4 @@
   * http://www.beautifulcss.com/archives/431 [웹 폰트 파헤치기 - 웹폰트의 모든것]
   * https://spoqa.github.io/2016/06/03/localize-type-setting.html [다국어 환경에 맞게 타이포그래피 세팅하기 - 다국어 반응형 타이포그래피]
   * http://naradesign.net/wp/2012/06/19/1830/ [웹 폰트 문제 해결. @font-face troubleshooting]
+  * http://mytory.net/archives/9743 [내가 선호하는 글꼴 목록(font-family)과 그 이유]
