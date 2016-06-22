@@ -108,7 +108,7 @@
 
 ### Typography
 
-  * prowebtype.com
+  * http://prowebtype.com
   * http://practicaltypography.com/
   * http://webtypography.net/
   * http://typographyhandbook.com/
