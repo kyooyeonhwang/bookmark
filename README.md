@@ -96,6 +96,11 @@
   * https://speakerdeck.com/rachelandrew/css-grid-layout-for-paris-web
   * https://forwardcourses.com/lectures/87 [Flexbox: WTF - Forward 4 Web Summit]
   * https://speakerdeck.com/jensimmons/modern-layouts-getting-out-of-our-ruts-1, https://www.youtube.com/watch?v=ZNpn7FBp_9U
+  * http://jensimmons.com/presentation/revolutionize-your-page-real-art-direction-web [전통적인 디자인을 CSS로 구현하는것을 안내]
+
+### URL
+
+  * ...
 
 ## WebFont
 
