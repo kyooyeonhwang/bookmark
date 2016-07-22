@@ -80,6 +80,7 @@
   * http://tympanus.net/Tutorials/SVGRipples/ [Google Material Design Ripple Effect with SVG]
   * http://tympanus.net/Development/ElasticSVGElements/
   * http://tympanus.net/Tutorials/ShapeHoverEffectSVG/
+  * http://svg-wow.org/
 
   
 ### Book
