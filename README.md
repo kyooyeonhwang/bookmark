@@ -28,6 +28,8 @@
   * http://slides.com/chriscoyier/gettin-weird-with-shape-morphing#/ [Five minutes on Shape Morphing]
   * chriscoyier
     * https://speakerdeck.com/chriscoyier/the-wonderful-world-of-svg
+  * Zell Liew
+    * https://www.youtube.com/watch?v=6fdIva47wZE / https://github.com/zellwk/CSSConf.Asia-animating-svg [Animating SVGs]
   * http://talks.brennaobrien.com/svg/#/ [SVG CAN DO THAT?!?]
   * http://www.slideshare.net/Maujor/svg-de-volta-e-paara-o-futuro
   * http://ptamarit.com/slides-data-viz-web-d3/en/#/
