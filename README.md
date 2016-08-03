@@ -22,7 +22,6 @@
     * http://slides.com/sdrasner/fluent-keynote#/ [Complex Responsive SVG Animations]
     * http://slides.com/sdrasner/generateny#/ [Functional Animation]
     * http://slides.com/sdrasner/fluent-session#/ [Complex SVG Animations with GreenSock (GSAP)]
-    * http://slides.com/sdrasner/generateny#/ [Functional Animation]
     * http://slides.com/sdrasner/smashing-ny#/ [Intricate SVG Animations]
   * http://cloudfour.github.io/slides-svg-101/#/ [SVG 101 A Gentle Introduction]
   * http://talks.brennaobrien.com/svg-typography/#/ [Creative Typography with SVG]
