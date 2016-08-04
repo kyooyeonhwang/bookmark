@@ -112,6 +112,7 @@
   * https://spoqa.github.io/2016/06/03/localize-type-setting.html [다국어 환경에 맞게 타이포그래피 세팅하기 - 다국어 반응형 타이포그래피]
   * http://naradesign.net/wp/2012/06/19/1830/ [웹 폰트 문제 해결. @font-face troubleshooting]
   * http://mytory.net/archives/9743 [내가 선호하는 글꼴 목록(font-family)과 그 이유]
+  * https://www.youtube.com/watch?v=Mho5DIT6MWM&index=10&list=PL37ZVnwpeshHuiIn2HnJ965qO2k3aADqz, https://www.w3.org/Talks/2016/font-level-up/#for-browser
 
 ### Typography
 
