@@ -23,6 +23,7 @@
     * http://slides.com/sdrasner/generateny#/ [Functional Animation]
     * http://slides.com/sdrasner/fluent-session#/ [Complex SVG Animations with GreenSock (GSAP)]
     * http://slides.com/sdrasner/smashing-ny#/ [Intricate SVG Animations]
+    * http://slides.com/sdrasner/gsap-svg#/ [GSAP + SVG]
   * http://cloudfour.github.io/slides-svg-101/#/ [SVG 101 A Gentle Introduction]
   * http://talks.brennaobrien.com/svg-typography/#/ [Creative Typography with SVG]
   * http://slides.com/chriscoyier/gettin-weird-with-shape-morphing#/ [Five minutes on Shape Morphing]
