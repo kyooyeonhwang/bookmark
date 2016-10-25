@@ -74,6 +74,7 @@
   * http://snapsvg.io/ Snap.svg [The jQuery of SVG]
   * http://julian.com/research/velocity/ [Velocity.js]
   * https://d3js.org/ [D3.js]
+  * https://maxwellito.github.io/vivus/ [vivus.js 라인 드로잉]
 
 ## SVG Demo
 
