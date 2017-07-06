@@ -28,7 +28,7 @@
   * http://talks.brennaobrien.com/svg-typography/#/ [Creative Typography with SVG]
   * http://slides.com/chriscoyier/gettin-weird-with-shape-morphing#/ [Five minutes on Shape Morphing]
   * chriscoyier
-    * https://speakerdeck.com/chriscoyier/the-wonderful-world-of-svg
+    * https://speakerdeck.com/chriscoyier/the-wonderful-world-of-svg / https://www.youtube.com/watch?v=tsGa-gcckwY
     * http://slides.com/chriscoyier/svg-summit-2016#/ [Building with SVG Q+A Round Table - SVG Submit 2016]
   * Zell Liew
     * https://www.youtube.com/watch?v=6fdIva47wZE / https://github.com/zellwk/CSSConf.Asia-animating-svg [Animating SVGs]
