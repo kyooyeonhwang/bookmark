@@ -47,6 +47,7 @@
   * https://sarasoueidan.com/
   * http://sarahdrasnerdesign.com/
   * http://tavmjong.free.fr/blog/
+  * http://svgimmersion.com
 
 ### URL
 
