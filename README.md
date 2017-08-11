@@ -134,7 +134,9 @@
 
 ### URL
 
-  * https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc  https://brunch.co.kr/@lain/2 (번역글), https://brunch.co.kr/@lain/3 (번역글)
+  * https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+    * https://brunch.co.kr/@lain/2(모션으로 사용성 만들기 : 모션 선언문의 UX(1)번역글)
+    * https://brunch.co.kr/@lain/3(모션으로 사용성 만들기 : 모션 선언문의 UX(2)번역글)
 
 ### Following
 
