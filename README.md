@@ -66,6 +66,7 @@
   * https://css-tricks.com/comparison-animation-technologies/ [웹 에니메이션 기술 장단점 비교]
   * https://github.com/iconic/SVGInjector [img태그 형색으로 되어 있는것을 DOM형식으로 SVG 마크업 인라인으로 대체 라이브러리]
   * http://www.catswhocode.com/blog/tutorials-and-resources-to-learn-and-master-svg [튜토리얼와 리소스를 통해서 SVG 마스터]
+  * https://svgontheweb.com/ko/ [웹에서 SVG 사용하기 실습 가이드]
  
 ### SVG JavaScript animation libraries 
 
