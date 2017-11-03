@@ -63,7 +63,7 @@
   * http://mytory.net/archives/11213 [SVG 활용 3 – 웹 문서에 SVG를 넣는 다양한 방법, 온갖 예외 피하기]
   * http://mytory.net/archives/11338 [SVG 활용 4 – 미지원 브라우저 대응]
   * http://mytory.net/archives/11444 [SVG 활용 5 – SVG에 애니메이션 효과 주기]
-  * https://css-tricks.com/comparison-animation-technologies/ [웹 에니메이션 기술 장단점 비교]
+  * https://css-tricks.com/comparison-animation-technologies/ [웹 애니메이션 기술 장단점 비교]
   * https://github.com/iconic/SVGInjector [img태그 형색으로 되어 있는것을 DOM형식으로 SVG 마크업 인라인으로 대체 라이브러리]
   * http://www.catswhocode.com/blog/tutorials-and-resources-to-learn-and-master-svg [튜토리얼와 리소스를 통해서 SVG 마스터]
   * https://svgontheweb.com/ko/ [웹에서 SVG 사용하기 실습 가이드]
@@ -78,6 +78,11 @@
   * http://julian.com/research/velocity/ [Velocity.js]
   * https://d3js.org/ [D3.js]
   * https://maxwellito.github.io/vivus/ [vivus.js 라인 드로잉]
+  * 모핑에 특화된 라이브러리
+    * https://alexk111.github.io/SVG-Morpheus/ [SVG Morpheus]
+    * https://github.com/gorangajic/react-svg-morph [React svg morph]
+    * https://greensock.com/morphSVG [MorphSVG plugin]
+    * https://github.com/veltman/flubber [flubber]
 
 ## SVG Demo
 
