@@ -83,6 +83,7 @@
     * https://github.com/gorangajic/react-svg-morph [React svg morph]
     * https://greensock.com/morphSVG [MorphSVG plugin]
     * https://github.com/veltman/flubber [flubber]
+   * https://popmotion.io/ [motion library]
 
 ## SVG Demo
 
