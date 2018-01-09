@@ -97,7 +97,11 @@
   * http://tympanus.net/Tutorials/ShapeHoverEffectSVG/
   * http://svg-wow.org/
 
-  
+## SVG Animated Icon
+
+  * http://www.transformicons.com/
+  * https://icons8.com/c/animated-icons
+
 ### Book
   
   * http://svgpocketguide.com/ (Free)
