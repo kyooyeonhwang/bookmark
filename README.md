@@ -154,6 +154,11 @@
   * http://lain.kr/
 
 
+## Animation / Motion
+
+  * https://popmotion.io/ (A functional JavaScript motion library)
+  * http://greensock.com/
+
 ## Accessibility
 
   * https://material.io/guidelines/usability/accessibility.html
