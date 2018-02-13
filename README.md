@@ -181,6 +181,6 @@
 
 ## UI Pattern
 
-  * http://ui-patterns.com/patterns (User Interface Design Patterns : pagination, breadcrumbs, navigation 등) 
-  * http://calltoidea.com/index.php (404, empty page, pricing, counters 등)
+  * http://ui-patterns.com/patterns (User Interface Design Patterns : pagination, breadcrumbs, navigation 등) 
+  * http://calltoidea.com/index.php (404, empty page, pricing, counters 등)
   * http://collectui.com/designs
