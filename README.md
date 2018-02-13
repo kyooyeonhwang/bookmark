@@ -169,3 +169,9 @@
   * https://a11yproject.com/resources
   * https://developers.google.com/web/fundamentals/accessibility/?hl=ko
   * http://a11y-style-guide.com/style-guide/ (A11Y 스타일 가이드)
+
+## UI Pattern
+
+  * http://ui-patterns.com/patterns (User Interface Design Patterns : pagination, breadcrumbs, navigation 등) 
+  * http://calltoidea.com/index.php (404, empty page, pricing, counters 등)
+  * http://collectui.com/designs
