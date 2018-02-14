@@ -49,7 +49,7 @@
   * http://www.slideshare.net/Maujor/svg-de-volta-e-paara-o-futuro
   * http://ptamarit.com/slides-data-viz-web-d3/en/#/
   * https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/pub?start=true&loop=false&delayms=5000#slide=id.p [Leaving Pixels Behind: A Vector Workflow for Designers]
-   *  일러스트 필터효과가 같이 SVG 파일로 적용안되는 부분이 있는데 몇가지 예제를 보여주고 해결방법을 제시. (P.64)
+   * 일러스트 필터효과가 같이 SVG 파일로 적용안되는 부분이 있는데 몇가지 예제를 보여주고 해결방법을 제시. (P.64)
   * https://ameliabr.github.io/css-svg-dynamic-duo/ 
 
 
@@ -74,11 +74,11 @@
   * http://mytory.net/archives/11213 [SVG 활용 3 – 웹 문서에 SVG를 넣는 다양한 방법, 온갖 예외 피하기]
   * http://mytory.net/archives/11338 [SVG 활용 4 – 미지원 브라우저 대응]
   * http://mytory.net/archives/11444 [SVG 활용 5 – SVG에 애니메이션 효과 주기]
-  * https://css-tricks.com/comparison-animation-technologies/ [웹 애니메이션 기술 장단점 비교]
+  * https://css-tricks.com/comparison-animation-technologies/ [웹 애니메이션 기술 장단점 비교]
   * https://github.com/iconic/SVGInjector [img태그 형색으로 되어 있는것을 DOM형식으로 SVG 마크업 인라인으로 대체 라이브러리]
   * http://www.catswhocode.com/blog/tutorials-and-resources-to-learn-and-master-svg [튜토리얼와 리소스를 통해서 SVG 마스터]
   * https://svgontheweb.com/ko/ [웹에서 SVG 사용하기 실습 가이드]
- 
+
 ### SVG JavaScript animation libraries 
 
   * http://greensock.com/ [GreenSock Animation Platform (GSAP) - 일부 플러그인은 유료]
@@ -114,10 +114,10 @@
   * https://icons8.com/c/animated-icons
 
 ### Book
-  
+
   * http://svgpocketguide.com/ (Free)
 
-  
+
 ## Layout
 
 ### Slide
@@ -126,14 +126,25 @@
   * http://people.igalia.com/mrego/talks/cssconf-us-2015-css-grid-layout/#/
   * https://speakerdeck.com/rachelandrew/css-grid-layout-for-paris-web
   * https://forwardcourses.com/lectures/87 [Flexbox: WTF - Forward 4 Web Summit]
-  * https://speakerdeck.com/jensimmons/modern-layouts-getting-out-of-our-ruts-1, https://www.youtube.com/watch?v=ZNpn7FBp_9U
+  * https://speakerdeck.com/jensimmons/modern-layouts-getting-out-of-our-ruts-1, 
+    * https://www.youtube.com/watch?v=ZNpn7FBp_9U
   * http://jensimmons.com/presentation/revolutionize-your-page-real-art-direction-web [전통적인 디자인을 CSS로 구현하는것을 안내]
+  * https://www.slideshare.net/rachelandrew/into-the-weeds-of-css-layout
+    * https://vimeo.com/254679499
 
-### URL
 
-  * ...
+## Typography
 
-## WebFont
+###  URL
+
+  * http://prowebtype.com
+  * http://practicaltypography.com/
+  * http://webtypography.net/
+  * http://typographyhandbook.com/
+  * http://practice.typekit.com
+  * https://vimeo.com/156203722
+
+###  WebFont
 
   * http://mytory.net/2016/06/15/webfont-best-practice.html [웹 폰트를 로컬 스토리지에 저장하는 기법 - 캐시 안정성 증가, 글꼴 깜빡임 현상 제거]
   * http://blog.coderifleman.com/post/111825720099/한글-웹-폰트-경량화해-사용하기 [한글 웹 폰트 경량화해 사용하기]
@@ -143,14 +154,6 @@
   * http://mytory.net/archives/9743 [내가 선호하는 글꼴 목록(font-family)과 그 이유]
   * https://www.youtube.com/watch?v=Mho5DIT6MWM&index=10&list=PL37ZVnwpeshHuiIn2HnJ965qO2k3aADqz, https://www.w3.org/Talks/2016/font-level-up/#for-browser
 
-### Typography
-
-  * http://prowebtype.com
-  * http://practicaltypography.com/
-  * http://webtypography.net/
-  * http://typographyhandbook.com/
-  * http://practice.typekit.com
-  * https://vimeo.com/156203722
 
 ## Interaction
 
@@ -163,12 +166,17 @@
 ### Following
 
   * http://lain.kr/
+  * https://gannon.tv/
 
 
 ## Animation / Motion
 
   * https://popmotion.io/ (A functional JavaScript motion library)
   * http://greensock.com/
+
+### URL
+
+  * https://swissincss.com/
 
 ## Accessibility
 
@@ -178,8 +186,8 @@
   * https://a11yproject.com/resources
   * https://developers.google.com/web/fundamentals/accessibility/?hl=ko
   * http://a11y-style-guide.com/style-guide/ (A11Y 스타일 가이드)
-  
-## Chrome Extension 
+
+### Chrome Extension 
 
   * http://www.funkify.org (다양한 능력과 장애가있는 극단적 인 사용자의 눈을 통해 웹과 인터페이스를 경험할 수 있도록 도와줍니다.)
 
@@ -188,6 +196,11 @@
   * http://ui-patterns.com/patterns (User Interface Design Patterns : pagination, breadcrumbs, navigation 등) 
   * http://calltoidea.com/index.php (404, empty page, pricing, counters 등)
   * http://collectui.com/designs
+  * http://ui-cloud.com/categories/
+
+## CSS 방법론
+
+  * https://gratiaa.github.io/young-blog/2016/10/09/css-at-BBCsports-1/
 
 
 ## Agency
