@@ -197,6 +197,7 @@
   * http://calltoidea.com/index.php (404, empty page, pricing, counters 등)
   * http://collectui.com/designs
   * http://ui-cloud.com/categories/
+  * http://emptystat.es/ (데이터가 없는 상태)
 
 ## CSS 방법론
 
