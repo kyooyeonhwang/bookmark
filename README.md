@@ -85,6 +85,8 @@
     * https://cdnjs.com/libraries/gsap [greensock 라이브러리 CDN]
     * http://greensock.com/ease-visualizer [GreenSock Ease Visualizer]
     * http://hwaba.nflint.com/lab/tween/ [간단한 한글 설명]
+    * https://blog.grotesq.com/js-tweenmax-0
+    * http://recoveryman.tistory.com/382?category=704086
   * http://snapsvg.io/ Snap.svg [The jQuery of SVG]
   * http://julian.com/research/velocity/ [Velocity.js]
   * https://d3js.org/ [D3.js]
