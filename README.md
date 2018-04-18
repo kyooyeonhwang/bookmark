@@ -81,6 +81,8 @@
 
 ### SVG JavaScript animation libraries 
 
+> 
+
   * http://greensock.com/ [GreenSock Animation Platform (GSAP) - 일부 플러그인은 유료]
     * https://cdnjs.com/libraries/gsap [greensock 라이브러리 CDN]
     * http://greensock.com/ease-visualizer [GreenSock Ease Visualizer]
@@ -89,13 +91,16 @@
   * http://julian.com/research/velocity/ [Velocity.js]
   * https://d3js.org/ [D3.js]
   * https://maxwellito.github.io/vivus/ [vivus.js 라인 드로잉]
-  * 모핑에 특화된 라이브러리
-    * https://alexk111.github.io/SVG-Morpheus/ [SVG Morpheus]
-    * https://github.com/gorangajic/react-svg-morph [React svg morph]
-    * https://greensock.com/morphSVG [MorphSVG plugin]
-    * https://github.com/veltman/flubber [flubber]
-    * http://animejs.com/ [animejs]
-   * https://popmotion.io/ [motion library]
+
+#### Motion/Morphing 라이브러리
+  * https://alexk111.github.io/SVG-Morpheus/ [SVG Morpheus]
+  * https://github.com/gorangajic/react-svg-morph [React svg morph]
+  * https://greensock.com/morphSVG [MorphSVG plugin]
+  * https://github.com/veltman/flubber [Morphing]
+  * http://animejs.com/ [Morphing] 
+  * https://popmotion.io/ 
+  * http://mojs.io/
+    * [Guest Tutorial #2: Web Animations and Mo.js with Sarah Drasner](https://www.youtube.com/watch?v=yRxWa8lXasI&feature=youtu.be)
 
 ### SVG Demo
 
