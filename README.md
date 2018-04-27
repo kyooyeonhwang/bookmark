@@ -63,8 +63,8 @@
 ### URL
 
   * https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/
-  * http://ssvvgg.net/ [SVG의 최신 뉴스 및 제작 요령 등의 정보]
-  * https://css-tricks.com/svg-fallbacks/ [svg fallbacks 방법]
+  * http://ssvvgg.net/ [SVG의 최신 뉴스 및 제작 요령 등의 정보 - 일본어] 
+  * https://css-tricks.com/svg-fallbacks/ [svg fallbacks 방법]
   * https://css-tricks.com/svg-animation-on-css-transforms/ [SVG 애니메이션 및 CSS transform]
     * CSS로 조작하는 동안 꽤 만만치 않은 문제는 만날 수 있으며, 그 문제를 해결할 수있는 방법에 대해 설명합니다.
   * https://medium.com/@iamryanyu/svg-sprite-workflow-that-works-f5609d4d6144#.dxcxy2i8s [SVG Sprite Workflow That Works]
